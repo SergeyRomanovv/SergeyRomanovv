@@ -2,7 +2,8 @@
 
 ![](https://komarev.com/ghpvc/?username=SergeyRomanovv)
 
-### My name is Sergey. I am a frontend developer.
+#### My name is Sergey. I am a frontend developer and i love intensive learning and development.
+
 ***
 
 ### My Contacts
